@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.header{
+    background: red;
+    width: 100%;
+}
+.button{
+    background: blue;
+    width: 100%;
+}
+.imgs{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+}
+.img3{
+    width: 200px;
+    height: 200px;
+}
+.img4{
+    width: 200px;
+    height: 200px;
+}
+iframe{
+    width: 900px;
+    height: 600px;
+}
